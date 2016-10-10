@@ -1,0 +1,12 @@
+[package]
+name = "vlct"
+version = "0.1.0"
+authors = ["Object905 <object905@gmail.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+notify-rust = "3.1.1"
+lazy_static = "0.2.1"
+regex = "0.1"
+dbus = "0.3.4"
+srt = { path = "/home/obj/Documents/Dev/Rust/rust_srt" }
