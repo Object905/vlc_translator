@@ -10,7 +10,7 @@ use settings;
 
 lazy_static! {
         static ref API_KEY: String =
-            "trnsl.1.1.20160929T112555Z.acb10979dce357b0.50b33e6728c28c8cf3ce73780a18a82f9d22fba0"
+            ""
             .to_owned();
 
         static ref DIRECTION_LANG: String = {
